@@ -1,0 +1,13 @@
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\bin\Debug\netcoreapp3.1\ProyectoK.exe
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\bin\Debug\netcoreapp3.1\ProyectoK.deps.json
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\bin\Debug\netcoreapp3.1\ProyectoK.runtimeconfig.json
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\bin\Debug\netcoreapp3.1\ProyectoK.runtimeconfig.dev.json
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\bin\Debug\netcoreapp3.1\ProyectoK.dll
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\bin\Debug\netcoreapp3.1\ProyectoK.pdb
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\obj\Debug\netcoreapp3.1\ProyectoK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\obj\Debug\netcoreapp3.1\ProyectoK.AssemblyInfoInputs.cache
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\obj\Debug\netcoreapp3.1\ProyectoK.AssemblyInfo.cs
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\obj\Debug\netcoreapp3.1\ProyectoK.csproj.CoreCompileInputs.cache
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\obj\Debug\netcoreapp3.1\ProyectoK.dll
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\obj\Debug\netcoreapp3.1\ProyectoK.pdb
+C:\Users\Kendall Villegas\Desktop\Kendall progra\ProyectoK\obj\Debug\netcoreapp3.1\ProyectoK.genruntimeconfig.cache
